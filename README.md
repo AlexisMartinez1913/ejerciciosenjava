@@ -1,2 +1,2 @@
 # programas en java
-ejercicios en java usando clases y objetos
+ejercicio en java usando clases y objetos
